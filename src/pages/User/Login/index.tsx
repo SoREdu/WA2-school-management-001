@@ -150,7 +150,7 @@ const Login: React.FC = () => {
         <title>
           {intl.formatMessage({
             id: 'menu.login',
-            defaultMessage: 'Login page',
+            defaultMessage: 'Login',
           })}
           - {Settings.title}
         </title>

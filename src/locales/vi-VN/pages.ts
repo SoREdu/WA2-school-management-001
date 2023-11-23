@@ -68,4 +68,12 @@ export default {
   'pages.subscriber.list.title' : 'Danh sách người đăng ký từ các trang Landing Page',
   'pages.subscriber.list.new' : 'Thêm mới',
 
+  'pages.subscriberAdd.title': 'Thêm mới danh sách đăng ký',
+  'pages.subscriberAdd.code.requiredMessage': 'Xin hãy nhập mã số đăng ký',
+  'pages.subscriberAdd.name.requiredMessage': 'Xin hãy nhập họ tên',
+  'pages.subscriberAdd.age.requiredMessage': 'Xin hãy nhập tuổi',
+  'pages.subscriberAdd.address.requiredMessage': 'Xin hãy nhập địa chỉ',
+  'pages.subscriberAdd.tel.requiredMessage': 'Xin hãy nhập số điện thoại',
+  'pages.subscriberAdd.subject.requiredMessage': 'Xin hãy chọn môn học',
+  
 };
